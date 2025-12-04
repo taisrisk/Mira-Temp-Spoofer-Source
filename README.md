@@ -1,6 +1,6 @@
 <div align="center">
 
-# ??? Mira Temp Spoofer
+# Mira Temp Spoofer by zrorisc
 
 ### Advanced Hardware Identity Spoofing System
 
